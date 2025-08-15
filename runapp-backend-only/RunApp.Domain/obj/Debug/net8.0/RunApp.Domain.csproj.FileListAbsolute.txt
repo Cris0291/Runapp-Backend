@@ -1,0 +1,13 @@
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\bin\Debug\net8.0\RunApp.Domain.deps.json
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\bin\Debug\net8.0\RunApp.Domain.dll
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\bin\Debug\net8.0\RunApp.Domain.pdb
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\RunApp.Domain.csproj.AssemblyReference.cache
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\RunApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\RunApp.Domain.AssemblyInfoInputs.cache
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\RunApp.Domain.AssemblyInfo.cs
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\RunApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\RunApp.Domain.sourcelink.json
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\RunApp.Domain.dll
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\refint\RunApp.Domain.dll
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\RunApp.Domain.pdb
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunApp.Domain\obj\Debug\net8.0\ref\RunApp.Domain.dll

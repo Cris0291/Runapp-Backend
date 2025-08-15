@@ -1,0 +1,3 @@
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\publish\Contracts.dll
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\publish\Contracts.deps.json
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\publish\Contracts.pdb

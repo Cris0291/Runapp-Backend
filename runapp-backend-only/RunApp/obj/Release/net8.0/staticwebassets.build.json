@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "y33oFAMtBpAM69mBa8cmIkGp8Zq0vlXNvNm0Y7yHIsA=",
+  "Source": "RunApp.Api",
+  "BasePath": "_content/RunApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

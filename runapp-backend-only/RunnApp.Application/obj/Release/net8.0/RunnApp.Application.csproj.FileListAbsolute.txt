@@ -1,0 +1,16 @@
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\bin\Release\net8.0\RunnApp.Application.deps.json
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\bin\Release\net8.0\RunnApp.Application.dll
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\bin\Release\net8.0\RunnApp.Application.pdb
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\bin\Release\net8.0\RunApp.Domain.dll
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\bin\Release\net8.0\RunApp.Domain.pdb
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp.Application.csproj.AssemblyReference.cache
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp.Application.AssemblyInfoInputs.cache
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp.Application.AssemblyInfo.cs
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp.Application.sourcelink.json
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp..98DA8CB7.Up2Date
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp.Application.dll
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\refint\RunnApp.Application.dll
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\RunnApp.Application.pdb
+C:\Users\cris0\OneDrive\Escritorio\EshopRunApp\DoteNet\RunApp\RunnApp.Application\obj\Release\net8.0\ref\RunnApp.Application.dll

@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunnApp.Application\\RunnApp.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunApp.Domain\\RunApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunApp.Domain\\RunApp.Domain.csproj",
+        "projectName": "RunApp.Domain",
+        "projectPath": "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunApp.Domain\\RunApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\cris0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunApp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cris0\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "ErrorOr": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\cris0\\.dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunnApp.Application\\RunnApp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunnApp.Application\\RunnApp.Application.csproj",
+        "projectName": "RunnApp.Application",
+        "projectPath": "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunnApp.Application\\RunnApp.Application.csproj",
+        "packagesPath": "C:\\Users\\cris0\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunnApp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cris0\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunApp.Domain\\RunApp.Domain.csproj": {
+                "projectPath": "C:\\Users\\cris0\\OneDrive\\Escritorio\\RunApp-Backend\\runapp-backend-only\\RunApp.Domain\\RunApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Users\\cris0\\.dotnet\\sdk\\8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
